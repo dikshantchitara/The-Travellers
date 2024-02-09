@@ -489,7 +489,7 @@ html {
   text-align: center;
   background: url(images/contact-us-bg.png) center no-repeat;
   background-size: cover;
-  animation: contact-bg 35s infinite;
+  animation: contact-bg 25s infinite;
 }
 
 .contact-heading {
@@ -540,7 +540,7 @@ html {
   color: var(--light-grey-color);
   letter-spacing: 0.1rem;
   border-radius: 0.5rem;
-  transition: border 0.3s;
+  transition: border 0.1s;
 }
 
 .input-group input:focus,
@@ -619,7 +619,7 @@ html {
   background-color: var(--grey-color);
   padding: 0.3rem 3rem;
   letter-spacing: 0.3rem;
-  transition: all 0.2s;
+  transition: all 0.1s;
 }
 
 .footer-link:hover {
